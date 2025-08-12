@@ -6,8 +6,10 @@ package com.multiplication;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+
+    public static void main(String[] args) {
+        Multiplication m = new Multiplication();
+        m.n = 5;
+        m.printTable();
     }
 }
