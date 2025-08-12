@@ -1,4 +1,4 @@
-package com.fizzbuzz;
+package com.multiplication;
 
 /**
  * Hello world!
